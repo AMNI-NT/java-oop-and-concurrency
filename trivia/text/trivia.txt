@@ -1,0 +1,50 @@
+Who is known as the father of Java?  
+James Gosling  
+Bjarne Stroustrup  
+Guido van Rossum  
+Dennis Ritchie  
+In which year was Java first released?  
+1995  
+1990  
+2000  
+1985  
+What was the original name of Java?  
+Oak  
+Pine  
+Maple  
+Cedar  
+Which company originally developed Java?  
+Sun Microsystems  
+Oracle  
+Microsoft  
+IBM  
+What is the primary purpose Java was originally created for?  
+To run on embedded devices  
+To build web applications  
+To replace C++  
+To create operating systems  
+Which version of Java introduced the `Swing` library?  
+Java 1.2  
+Java 1.1  
+Java 5.0  
+Java 8  
+When did Oracle acquire Java?  
+2010  
+2008  
+2005  
+2012  
+What slogan is associated with Java?  
+"Write Once, Run Anywhere"  
+"Fast, Reliable, Secure"  
+"Code Less, Build More"  
+"Build Better Software"  
+What is the mascot of Java called?  
+Duke  
+Tux  
+JavaBean  
+Jedi  
+Which major feature was added in Java 8?  
+Lambdas and Streams  
+Generics  
+Modules  
+Assertions  
